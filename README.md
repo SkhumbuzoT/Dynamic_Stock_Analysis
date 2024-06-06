@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing stock market dynamics, particularly identifying high volatility periods during the London & New York overlap. The analysis helps in understanding market behavior and making informed trading decisions.
+This project focuses on analyzing stock data.
 
 ## Project Structure
 
